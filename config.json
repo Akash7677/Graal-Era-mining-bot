@@ -1,0 +1,11 @@
+{
+  "player_level": 1,
+  "rocks_to_mine": 6,
+  "time_for_one_rock": 30,
+  "position_of_wall": "Down",
+  "move_1": "Right",
+  "move_2": "Left",
+  "mine_btn": "S",
+  "corner_1": "Down",
+  "corner_2": "Left"
+}

@@ -1,0 +1,35 @@
+install dependencies
+---------------------
+1. Your system will require Python 3.10 or higher and make it as default for the windows command prompt
+2. Open windows command prompt in the project directory and type "pip install -r requirements.txt" and hit enter
+
+
+
+Running the Bot
+----------------
+1. Configure the config.json
+
+ 1. "player_level": 1, -----> Defines the level of the player
+ 2. "rocks_to_mine": 6, -----> Defines the number of rocks to be mined (User preference)
+ 3.  "time_for_one_rock": 30, -----> Defines the total time for the one rock to be mined (User configurable)
+ 4. "position_of_wall": "Down", -----> Defines the position of wall to be mined w.r.t player and the screen
+ 5. "move_1": "Right", -----> Defines the next move once a rock is mined (Moves Right for the next rock)
+ 6. "move_2": "Left", -----> Defines the counter move to move_1 (Moves left)
+ 7. "mine_btn": "S", -----> Defines the button to trigger the drill (Could be S or Space) 
+ 8.  "corner_1": "Down", -----> Defines the position of wall in the corner(Down)
+ 9.  "corner_2": "Left" -----> Defines the position of other side of wall in the corner (Left)
+
+2. open the windows command prompt in the project folder
+3. Type "python main.py" and hit enter
+4. It will show you the currently set configurations
+5. Enter your choice from the menu
+	1. Mine in one direction -----> Starts mining in one two direction (based on move_1 and move_2)
+	2. Mine in the corner -----> Starts mining in the corner (based on the corner_1 and corner_2)
+	3. Record action -----> Starts recording the mouse and keyboard actions (press ESC to end the recording)
+	4. Play action -----> Plays the recording (Starts automating mouse and keyboard action based on the recording)
+
+Note:
+------------
+1. To close the bot hold Ctrl + C until close.
+2. For action 1 and 2 make sure game window is in the focus once bot start 
+3. For action 4 it is adviced to keep initial condition same as the time of recording as it will only mimic the recorded mouse and keyboard action.

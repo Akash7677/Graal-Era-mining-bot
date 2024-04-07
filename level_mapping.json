@@ -1,0 +1,468 @@
+{
+  "levels": [
+    {
+      "level": 0,
+      "time_per_rock": "30.0 seconds"
+    },
+    {
+      "level": 1,
+      "time_per_rock": "29.7 seconds"
+    },
+    {
+      "level": 2,
+      "time_per_rock": "29.4 seconds"
+    },
+    {
+      "level": 3,
+      "time_per_rock": "29.1 seconds"
+    },
+    {
+      "level": 4,
+      "time_per_rock": "28.8 seconds"
+    },
+    {
+      "level": 5,
+      "time_per_rock": "28.5 seconds"
+    },
+    {
+      "level": 6,
+      "time_per_rock": "28.2 seconds"
+    },
+    {
+      "level": 7,
+      "time_per_rock": "27.9 seconds"
+    },
+    {
+      "level": 8,
+      "time_per_rock": "27.6 seconds"
+    },
+    {
+      "level": 9,
+      "time_per_rock": "27.3 seconds"
+    },
+    {
+      "level": 10,
+      "time_per_rock": "27.0 seconds"
+    },
+    {
+      "level": 11,
+      "time_per_rock": "26.7 seconds"
+    },
+    {
+      "level": 12,
+      "time_per_rock": "26.4 seconds"
+    },
+    {
+      "level": 13,
+      "time_per_rock": "26.1 seconds"
+    },
+    {
+      "level": 14,
+      "time_per_rock": "25.8 seconds"
+    },
+    {
+      "level": 15,
+      "time_per_rock": "25.5 seconds"
+    },
+    {
+      "level": 16,
+      "time_per_rock": "25.2 seconds"
+    },
+    {
+      "level": 17,
+      "time_per_rock": "24.9 seconds"
+    },
+    {
+      "level": 18,
+      "time_per_rock": "24.6 seconds"
+    },
+    {
+      "level": 19,
+      "time_per_rock": "24.3 seconds"
+    },
+    {
+      "level": 20,
+      "time_per_rock": "24.0 seconds"
+    },
+    {
+      "level": 21,
+      "time_per_rock": "23.7 seconds"
+    },
+    {
+      "level": 22,
+      "time_per_rock": "23.4 seconds"
+    },
+    {
+      "level": 23,
+      "time_per_rock": "23.1 seconds"
+    },
+    {
+      "level": 24,
+      "time_per_rock": "22.8 seconds"
+    },
+    {
+      "level": 25,
+      "time_per_rock": "22.5 seconds"
+    },
+    {
+      "level": 26,
+      "time_per_rock": "22.2 seconds"
+    },
+    {
+      "level": 27,
+      "time_per_rock": "21.9 seconds"
+    },
+    {
+      "level": 28,
+      "time_per_rock": "21.6 seconds"
+    },
+    {
+      "level": 29,
+      "time_per_rock": "21.3 seconds"
+    },
+    {
+      "level": 30,
+      "time_per_rock": "21.0 seconds"
+    },
+    {
+      "level": 31,
+      "time_per_rock": "20.7 seconds"
+    },
+    {
+      "level": 32,
+      "time_per_rock": "20.4 seconds"
+    },
+    {
+      "level": 33,
+      "time_per_rock": "20.1 seconds"
+    },
+    {
+      "level": 34,
+      "time_per_rock": "19.8 seconds"
+    },
+    {
+      "level": 35,
+      "time_per_rock": "19.5 seconds"
+    },
+    {
+      "level": 36,
+      "time_per_rock": "19.2 seconds"
+    },
+    {
+      "level": 37,
+      "time_per_rock": "18.9 seconds"
+    },
+    {
+      "level": 38,
+      "time_per_rock": "18.6 seconds"
+    },
+    {
+      "level": 39,
+      "time_per_rock": "18.3 seconds"
+    },
+    {
+      "level": 40,
+      "time_per_rock": "18.0 seconds"
+    },
+    {
+      "level": 41,
+      "time_per_rock": "17.7 seconds"
+    },
+    {
+      "level": 42,
+      "time_per_rock": "17.4 seconds"
+    },
+    {
+      "level": 43,
+      "time_per_rock": "17.1 seconds"
+    },
+    {
+      "level": 44,
+      "time_per_rock": "16.8 seconds"
+    },
+    {
+      "level": 45,
+      "time_per_rock": "16.5 seconds"
+    },
+     {
+      "level": 46,
+      "time_per_rock": "16.2 seconds"
+    },
+    {
+      "level": 47,
+      "time_per_rock": "15.9 seconds"
+    },
+    {
+      "level": 48,
+      "time_per_rock": "15.6 seconds"
+    },
+    {
+      "level": 49,
+      "time_per_rock": "15.3 seconds"
+    },
+    {
+      "level": 50,
+      "time_per_rock": "15.0 seconds"
+    },
+    {
+      "level": 51,
+      "time_per_rock": "14.7 seconds"
+    },
+    {
+      "level": 52,
+      "time_per_rock": "14.4 seconds"
+    },
+    {
+      "level": 53,
+      "time_per_rock": "14.1 seconds"
+    },
+    {
+      "level": 54,
+      "time_per_rock": "13.8 seconds"
+    },
+    {
+      "level": 55,
+      "time_per_rock": "13.5 seconds"
+    },
+    {
+      "level": 56,
+      "time_per_rock": "13.2 seconds"
+    },
+    {
+      "level": 57,
+      "time_per_rock": "12.9 seconds"
+    },
+    {
+      "level": 58,
+      "time_per_rock": "12.6 seconds"
+    },
+    {
+      "level": 59,
+      "time_per_rock": "12.3 seconds"
+    },
+    {
+      "level": 60,
+      "time_per_rock": "12.0 seconds"
+    },
+    {
+      "level": 61,
+      "time_per_rock": "11.7 seconds"
+    },
+    {
+      "level": 62,
+      "time_per_rock": "11.4 seconds"
+    },
+    {
+      "level": 63,
+      "time_per_rock": "11.1 seconds"
+    },
+    {
+      "level": 64,
+      "time_per_rock": "10.8 seconds"
+    },
+    {
+      "level": 65,
+      "time_per_rock": "10.5 seconds"
+    },
+    {
+      "level": 66,
+      "time_per_rock": "10.2 seconds"
+    },
+    {
+      "level": 67,
+      "time_per_rock": "9.9 seconds"
+    },
+    {
+      "level": 68,
+      "time_per_rock": "9.6 seconds"
+    },
+    {
+      "level": 69,
+      "time_per_rock": "9.3 seconds"
+    },
+    {
+      "level": 70,
+      "time_per_rock": "9.0 seconds"
+    },
+    {
+      "level": 71,
+      "time_per_rock": "8.7 seconds"
+    },
+    {
+      "level": 72,
+      "time_per_rock": "8.4 seconds"
+    },
+    {
+      "level": 73,
+      "time_per_rock": "8.1 seconds"
+    },
+    {
+      "level": 74,
+      "time_per_rock": "7.8 seconds"
+    },
+    {
+      "level": 75,
+      "time_per_rock": "7.5 seconds"
+    },
+    {
+      "level": 76,
+      "time_per_rock": "7.2 seconds"
+    },
+    {
+      "level": 77,
+      "time_per_rock": "6.9 seconds"
+    },
+    {
+      "level": 78,
+      "time_per_rock": "6.6 seconds"
+    },
+    {
+      "level": 79,
+      "time_per_rock": "6.3 seconds"
+    },
+    {
+      "level": 80,
+      "time_per_rock": "6.0 seconds"
+    },
+     {
+      "level": 46,
+      "time_per_rock": "16.2 seconds"
+    },
+    {
+      "level": 47,
+      "time_per_rock": "15.9 seconds"
+    },
+    {
+      "level": 48,
+      "time_per_rock": "15.6 seconds"
+    },
+    {
+      "level": 49,
+      "time_per_rock": "15.3 seconds"
+    },
+    {
+      "level": 50,
+      "time_per_rock": "15.0 seconds"
+    },
+    {
+      "level": 51,
+      "time_per_rock": "14.7 seconds"
+    },
+    {
+      "level": 52,
+      "time_per_rock": "14.4 seconds"
+    },
+    {
+      "level": 53,
+      "time_per_rock": "14.1 seconds"
+    },
+    {
+      "level": 54,
+      "time_per_rock": "13.8 seconds"
+    },
+    {
+      "level": 55,
+      "time_per_rock": "13.5 seconds"
+    },
+    {
+      "level": 56,
+      "time_per_rock": "13.2 seconds"
+    },
+    {
+      "level": 57,
+      "time_per_rock": "12.9 seconds"
+    },
+    {
+      "level": 58,
+      "time_per_rock": "12.6 seconds"
+    },
+    {
+      "level": 59,
+      "time_per_rock": "12.3 seconds"
+    },
+    {
+      "level": 60,
+      "time_per_rock": "12.0 seconds"
+    },
+    {
+      "level": 61,
+      "time_per_rock": "11.7 seconds"
+    },
+    {
+      "level": 62,
+      "time_per_rock": "11.4 seconds"
+    },
+    {
+      "level": 63,
+      "time_per_rock": "11.1 seconds"
+    },
+    {
+      "level": 64,
+      "time_per_rock": "10.8 seconds"
+    },
+    {
+      "level": 65,
+      "time_per_rock": "10.5 seconds"
+    },
+    {
+      "level": 66,
+      "time_per_rock": "10.2 seconds"
+    },
+    {
+      "level": 67,
+      "time_per_rock": "9.9 seconds"
+    },
+    {
+      "level": 68,
+      "time_per_rock": "9.6 seconds"
+    },
+    {
+      "level": 69,
+      "time_per_rock": "9.3 seconds"
+    },
+    {
+      "level": 70,
+      "time_per_rock": "9.0 seconds"
+    },
+    {
+      "level": 71,
+      "time_per_rock": "8.7 seconds"
+    },
+    {
+      "level": 72,
+      "time_per_rock": "8.4 seconds"
+    },
+    {
+      "level": 73,
+      "time_per_rock": "8.1 seconds"
+    },
+    {
+      "level": 74,
+      "time_per_rock": "7.8 seconds"
+    },
+    {
+      "level": 75,
+      "time_per_rock": "7.5 seconds"
+    },
+    {
+      "level": 76,
+      "time_per_rock": "7.2 seconds"
+    },
+    {
+      "level": 77,
+      "time_per_rock": "6.9 seconds"
+    },
+    {
+      "level": 78,
+      "time_per_rock": "6.6 seconds"
+    },
+    {
+      "level": 79,
+      "time_per_rock": "6.3 seconds"
+    },
+    {
+      "level": 80,
+      "time_per_rock": "6.0 seconds"
+    }
+  ]
+}
